@@ -14,8 +14,7 @@ This notebook demonstrates how to evaluate a Retrieval-Augmented Generation (RAG
 
 ## Installation
 Ensure that you have the required libraries installed. You can do this by running:
-```bash
-    pip install openai langchain langsmith pinecone-client
+    - pip install openai langchain langsmith pinecone-client
 
 
 
